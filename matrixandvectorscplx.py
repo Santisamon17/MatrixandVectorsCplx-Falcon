@@ -1,6 +1,6 @@
 # Calculadora de Matrices y Vectores de Numeros Complejos
 # Por Santiago Sánchez Monroy
-# Febrero 2023
+# Febrero 2023.
 
 import mathcplx
 from tkinter import messagebox
